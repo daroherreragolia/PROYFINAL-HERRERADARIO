@@ -1,0 +1,23 @@
+{
+  "name": "tercera-entrega-proy-final-herrera-dario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daroherreragolia/TercerEntregaPROYFINALHerreraDario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daroherreragolia/TercerEntregaPROYFINALHerreraDario/issues"
+  },
+  "homepage": "https://github.com/daroherreragolia/TercerEntregaPROYFINALHerreraDario#readme",
+  "devDependencies": {
+    "sass": "^1.54.8"
+  }
+}
